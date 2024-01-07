@@ -1,0 +1,49 @@
+body{
+      font-family: 'Roboto', sans-serif;
+}
+.header_banner{
+       background-image: url('./images/Banner\ Image.png');
+       background-repeat: no-repeat;
+       width: 1320px;
+      height: 600px;
+      margin-left: 70px;
+
+}
+.main_titile{
+     color: aliceblue;
+     text-align: center;
+     
+     
+     
+}
+
+
+
+.sec_1{
+      display: block;
+      width: 50%;
+      margin-top: 100px;
+     padding-left:390px
+     
+}
+.offer{
+      text-align: center;
+
+}
+
+#h1{
+      color: #F00;
+      text-align: center;
+      font-size: 45px;
+}
+
+#paragraph{
+      color: #F00;
+      font-size: 14px;
+      font-weight: 500;
+      }
+
+/* .new-year_img{
+      width: 500px;
+      height: 500px;
+} */
