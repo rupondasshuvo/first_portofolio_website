@@ -264,9 +264,17 @@ font-weight: 900;
  .footer{
       background-color: #070211;;
       color: #FFF;
-      width: 1600px;
-height: 450px;
+      width: 1400px;
+      height: 450px;
+      
+}
+
+.hr_1{
+      border: 1px solid rgb(35, 34, 34);
+      width: 1050px;
+height: 1px;
  }
+ 
  .contact{
       
       display: flex;
@@ -274,4 +282,25 @@ height: 450px;
  }
  .contant_2{
       display:flex;
+      padding: 900px;
+
+ }
+ .flex_2{
+      display:inline
+ }
+ .linkk{
+     padding-left: 550px;
+ }
+ .link_2{
+      padding: 8px;
+    
+ }
+ .foot{
+      display:inline-flex;
+ }
+ #all_rights{
+      padding-left: 170px;
+ }
+ #Unsubscribe{
+      padding-left: 800px;
  }
