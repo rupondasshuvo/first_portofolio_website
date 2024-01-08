@@ -63,18 +63,25 @@ body{
 
 .sec2{
       margin: 120px 70px;
-      background-image: linear-gradient(180deg, rgba(13, 3, 3, 0.45),rgba(0, 0, 0, 0.051)),url("./images/Vectorrr.png");
+      background-image: linear-gradient(180deg, rgba(4, 0, 0, 0.45),rgba(0, 0, 0, 0.051)),url("./images/Vectorrr.png");
       background-repeat: no-repeat;
       width: 1320px;
       height: 600px;
 }
 .section2_content{
       display: flex;
+      justify-content: space-between;
       padding-left: 120px;
-      width: 700px;
+      
+
 }
 .text_sec_2{
-      
+      width:500px;
+      margin: 40px;
+      gap:3px;
+      text-align: center;
+      padding-top: 50px;
+
 }
 #heading_sec2{
       color: #FFF;
@@ -86,8 +93,8 @@ text-align: center;
 ;
 }
 .img_2024{
-    padding: 75px 600px;
-    padding-left: 600px;
+    padding: 70px 150px;
+    padding-left: 40px;
 }
 .joining_bio{
       background-image: linear-gradient(rgb(245, 225, 225), rgb(250, 245, 241), rgb(255, 255, 255));
@@ -253,13 +260,26 @@ font-weight: 900;
       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
  }
  .input{
-      
+
  }
  .input_button{
-      display: inline-flex;
+      display:flex;
       margin: 0px;
-      padding: 0px;
+      padding-left: 380px;
+     
+   
+   
       
+ }
+ .buttoon{
+      background-color: rgb(200, 24, 24);
+      border:  0px solid;
+      
+      color:white;
+      width: 70px;
+      
+  
+     padding: 5px;
  }
  .footer{
       background-color: #070211;;
