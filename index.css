@@ -162,9 +162,7 @@ font-size: 20px;
  border-radius: 50%;
  padding: 20px;
 
-}
-#new_year_offer_2{
-      
+ 
 }
 #text_4{
       color: #F00;
@@ -173,8 +171,12 @@ font-size: 20px;
 font-family: Inter;
 font-size: 48px;
 }
+
 #img_2{
-  padding-top: 50px;
+   padding: 100px;
+
+/* padding-bottom: 600px; */
+
 }
 .holiday_sale{
       text-align: center;
