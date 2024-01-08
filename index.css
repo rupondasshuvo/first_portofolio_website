@@ -1,27 +1,39 @@
 body{
       font-family: 'Roboto', sans-serif;
 }
+
 .header_banner{
-       background-image: url('./images/Banner\ Image.png');
+       background-image: linear-gradient(180deg, rgba(13, 3, 3, 0.45),rgba(30, 29, 0, 0.051)),url("./images/Banner\ Image.png");
+    background-color: #070211;
        background-repeat: no-repeat;
        width: 1320px;
       height: 600px;
-      margin-left: 70px
+      margin-left: 70px;
+  
+      
+     
+    
 }
 
+.new_year_text{
+      border: 0px solid ;
+      padding-top:150px ; 
+     
+}
 
-/* /* .new_year_text{
-      border: 0px solid ; */
-/* }  */
-.main_titile{
+.main_titile_1{
+      color: aliceblue;
+      font-size: 20px;
+      text-align: center;
+    
+}
+
+.main_titile_2{
      color: aliceblue;
+     font-size: 60px;
      text-align: center;
-     padding-top: 40px;
-     
-     
      
 }
-
 
 
 .sec_1{
@@ -46,30 +58,27 @@ body{
       color: #F00;
       font-size: 14px;
       font-weight: 500;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
       }
 
-/* .new-year_img{
-      width: 500px;
-      height: 500px;
-} */
 .sec2{
       margin: 120px 70px;
-      background-image: url('./images/Vectorrr.png');
+      background-image: linear-gradient(180deg, rgba(13, 3, 3, 0.45),rgba(0, 0, 0, 0.051)),url("./images/Vectorrr.png");
       background-repeat: no-repeat;
       width: 1320px;
       height: 600px;
-      /* padding-left: ; */
 }
 .section2_content{
       display: flex;
-      width: 50%;
+      padding-left: 120px;
+      width: 700px;
 }
 .text_sec_2{
       
 }
 #heading_sec2{
       color: #FFF;
-font-family: Merriweather;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 font-size: 50px;
 font-weight: 900;
 letter-spacing: 7.04px;
@@ -78,6 +87,7 @@ text-align: center;
 }
 .img_2024{
     padding: 75px 600px;
+    padding-left: 600px;
 }
 .joining_bio{
       background-image: linear-gradient(rgb(245, 225, 225), rgb(250, 245, 241), rgb(255, 255, 255));
@@ -90,7 +100,7 @@ text-align: center;
 .color_red{
       color: #F00;
 }
-#button{
+.button{
       background-color: orangered;
       border:  0px solid;
       font-size: 20px;
@@ -123,7 +133,7 @@ padding-top: 60px;
 #text_2{
       
       color: #070211;
-      font-family: Merriweather;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
       font-size: 48px;
     
       
@@ -159,3 +169,109 @@ font-size: 48px;
 #img_2{
   padding-top: 50px;
 }
+.holiday_sale{
+      text-align: center;
+      margin-top: 250px;
+      padding-left: 300px; 
+      padding-right: 300px; 
+    
+      
+}
+#content_1{
+      color: #070211;
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+}
+#content_2{
+      color: #070211;
+
+
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size:60px;
+font-weight: 900;
+}
+.new_banner{
+      background-image: url("./images/Rectangle\ 2.png"), url('./images/Rectangle\ 1.png');
+      background-repeat: no-repeat;
+      background-position: bottom, right top ;
+      margin: 65px;
+}
+
+#img_1{
+
+}
+
+#img_2{
+
+}
+.product_heading{
+      font-size: 20px;
+      margin-left: 50px;
+      margin-top: 200px;
+}
+#text_01{
+      font-size: 18px;
+      color: #F00;
+}
+.demo_pic{
+      display: flex;
+      padding: 20px;
+  
+}
+#text_2{
+      font-size: 40px;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      text-transform: capitalize;
+
+}
+.hover{
+     
+      border: 5px solid rgb(3, 3, 92);
+      margin: 5px;
+      border-radius: 15px;
+      padding: 5px;
+}
+.hover:hover{
+  
+      border: 5px solid red;
+      margin: 5px;
+      border-radius: 15px;
+      padding: 5px;
+
+ }
+ .last_part{
+         background: rgba(255, 0, 0, 0.05);
+         margin: 150px;
+        
+        text-align: center;
+        padding: 100px;
+      
+ }
+ .subscribe_text{
+      font-size: 40px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ .input{
+      
+ }
+ .input_button{
+      display: inline-flex;
+      margin: 0px;
+      padding: 0px;
+      
+ }
+ .footer{
+      background-color: #070211;;
+      color: #FFF;
+      width: 1600px;
+height: 450px;
+ }
+ .contact{
+      
+      display: flex;
+      padding: 50px;
+ }
+ .contant_2{
+      display:flex;
+ }
