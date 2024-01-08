@@ -99,3 +99,63 @@ text-align: center;
      padding: 5px;
      box-shadow: 2px 2px 2px gray;
 }
+.sec_3{
+      display: flex;
+      margin: 80px;
+      padding-top: 50px;
+      gap: 60px;
+    
+}
+.new_year_offer{
+
+    height: 400px;
+    width: 500px;
+    padding-left: 100px;
+
+}
+
+#text_1{
+      color: #F00;
+font-family: Inter;
+padding-top: 60px;
+
+}
+#text_2{
+      
+      color: #070211;
+      font-family: Merriweather;
+      font-size: 48px;
+    
+      
+
+}
+.text_3{
+      color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+
+
+}
+    
+    
+
+.ellispe{
+ border: 15px solid #F00;
+ border-radius: 50%;
+ padding: 20px;
+
+}
+#new_year_offer_2{
+      
+}
+#text_4{
+      color: #F00;
+      padding-top: 30px;
+
+font-family: Inter;
+font-size: 48px;
+}
+#img_2{
+  padding-top: 50px;
+}
