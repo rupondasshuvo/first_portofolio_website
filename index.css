@@ -6,12 +6,17 @@ body{
        background-repeat: no-repeat;
        width: 1320px;
       height: 600px;
-      margin-left: 70px;
-
+      margin-left: 70px
 }
+
+
+/* /* .new_year_text{
+      border: 0px solid ; */
+/* }  */
 .main_titile{
      color: aliceblue;
      text-align: center;
+     padding-top: 40px;
      
      
      
@@ -47,3 +52,50 @@ body{
       width: 500px;
       height: 500px;
 } */
+.sec2{
+      margin: 120px 70px;
+      background-image: url('./images/Vectorrr.png');
+      background-repeat: no-repeat;
+      width: 1320px;
+      height: 600px;
+      /* padding-left: ; */
+}
+.section2_content{
+      display: flex;
+      width: 50%;
+}
+.text_sec_2{
+      
+}
+#heading_sec2{
+      color: #FFF;
+font-family: Merriweather;
+font-size: 50px;
+font-weight: 900;
+letter-spacing: 7.04px;
+text-align: center;
+;
+}
+.img_2024{
+    padding: 75px 600px;
+}
+.joining_bio{
+      background-image: linear-gradient(rgb(245, 225, 225), rgb(250, 245, 241), rgb(255, 255, 255));
+      text-align: center;
+      margin: 70px;
+      padding: 70px;
+      padding-bottom: 100px;
+      border-radius: 15px;
+}
+.color_red{
+      color: #F00;
+}
+#button{
+      background-color: orangered;
+      border:  0px solid;
+      font-size: 20px;
+      color:white;
+     border-radius: 8px;
+     padding: 5px;
+     box-shadow: 2px 2px 2px gray;
+}
